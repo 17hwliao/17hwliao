@@ -28,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,html,java,html,css,js,vue,spring,maven,redis,git,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,vue,ajax,spring,spring-boot,spring-cloud,spring-mvc,mybatis,jdbc,maven,mysql,redis,git,linux,docker" />
 </div>
 
 ---

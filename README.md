@@ -1,15 +1,15 @@
 <!-- 彩虹旋转打字机效果 -->
 <div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=500&color=FF1493¢er=true&vCenter=true&width=800&height=70&lines=🌈+🌈+🌈+Welcome!!!+🌈+🌈+🌈" alt="Welcome" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=600&color=FF4500¢er=true&vCenter=true&width=900&height=60&lines=😄+This+is+my+little+wonderland.+😄" alt="Wonderland" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=800&height=70&lines=🌈+🌈+🌈+Welcome!!!+🌈+🌈+🌈)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=700&color=FFD700¢er=true&vCenter=true&width=900&height=60&lines=✨+Simply+see+✨+what+✨+you+need+✨" alt="Simply see" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=600&color=FF4500&center=true&vCenter=true&width=900&height=60&lines=😄+This+is+my+little+wonderland.+😄)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=800&color=32CD32¢er=true&vCenter=true&width=950&height=60&lines=💖+For+blog+content+,+please+visit+the+github.io+repository.+💖" alt="Blog info" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+Simply+see+%E2%9C%A8+what+%E2%9C%A8+you+need+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=5000&pause=1000&color=1E90FF¢er=true&vCenter=true&width=800&height=70&lines=🎯+Star+this+repo+if+you+like+it!+🌟" alt="Star repo" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=800&color=32CD32&center=true&vCenter=true&width=950&height=60&lines=%F0%9F%92%96+For+blog+content+,+please+visit+the+github.io+repository.+%F0%9F%92%96)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=5000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%8E%AF+Star+this+repo+if+you+like+it!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 

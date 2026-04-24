@@ -25,6 +25,29 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 💻 编程语言
+<img src="https://skillicons.dev/icons?i=python,cpp,java" />
+
+#### 🎨 前端
+<img src="https://skillicons.dev/icons?i=html,css,js,vue" />
+
+#### ⚙️ 后端
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+
+#### 🗄️ 数据库
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
+
+#### 🛠️ 开发工具
+<img src="https://skillicons.dev/icons?i=git,linux,docker" />
+
+</div>
+
+---
+
 ### 🚀 关于我
 
 <!-- 彩色动态标语 -->
@@ -46,6 +69,7 @@
 ---
 
 ### 📈 GitHub 统计
+
 <!-- 前两个卡片并排显示 -->
 <div align="center">
   <table>

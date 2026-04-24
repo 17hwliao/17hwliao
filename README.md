@@ -1,13 +1,13 @@
 <!-- 彩虹旋转打字机效果 -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=800&height=70&lines=🌈+🌈+🌈+Hi+there!+🌈+🌈+🌈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=800&height=70&lines=🌈+🌈+🌈+Welcome!!!+🌈+🌈+🌈)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=600&color=FF4500&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%8E%A8+17hwliao%2F17hwliao+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=600&color=FF4500&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%8E%A8+This is my little wonderland.+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=700&color=FFD700&center=true&vCenter=true&width=900&height=60&lines=%E2%9C%A8+Simply+see+%E2%9C%A8+what+%E2%9C%A8+you+need+%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=800&color=32CD32&center=true&vCenter=true&width=950&height=60&lines=%F0%9F%92%96+because+its+README.md+appears+on+your+GitHub+profile!+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4500&pause=800&color=32CD32&center=true&vCenter=true&width=950&height=60&lines=%F0%9F%92%96+For+blog+content+,+please+visit+the+github.io +repository.+%F0%9F%92%96)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=5000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%8E%AF+Star+this+repo+if+you+like+it!+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
@@ -25,6 +25,16 @@
 
 ---
 
+### 👥 我的团队
+
+<div align="center">
+  
+👥 <strong>我的团队：</strong> <a href="https://github.com/lec-org">lec-org</a>
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -38,18 +48,14 @@
 <!-- 彩色动态标语 -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=200&color=F000FF&center=true&vCenter=true&width=700&lines=💻+Code+is+poetry+%F0%9F%8F%B9%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;🎨+Design+is+art+%F0%9F%8E%A8;🚀+Innovation+is+key+%F0%9F%94%91;🌟+Together+we+can+change+the+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=200&color=F000FF&center=true&vCenter=true&width=700&lines=🌿+My+motto+:+%F0%9F%8F%B9%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8F;😄+Perhaps+it+doesn't+need+to+be+too+complicated+%F0%9F%8E%A8;🐣+I'm+still+a+little+noob.+%F0%9F%94%91;🌟+I+humbly+ask+the+experienced+ones+to+guide+me.+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 You can contact me through QQ 3594513696 
+- 🤔 My email address : shiqihaowuliao@qq.com
+- 😄 A goofy backend developer.
+- 🐣 I'm just getting started, please bear with me.
 
 ---
 

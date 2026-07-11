@@ -61,24 +61,6 @@
 
 ### 📈 GitHub 统计
 
-<!-- 前两个卡片并排显示 -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=17hwliao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17hwliao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=17hwliao&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
 <!-- Streak 卡片居中显示 -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=17hwliao&theme=radical&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />

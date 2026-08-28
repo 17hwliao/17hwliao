@@ -58,10 +58,3 @@
 - 🐣 I'm just getting started, please bear with me.
 
 ---
-
-### 📈 GitHub 统计
-
-<!-- Streak 卡片居中显示 -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=17hwliao&theme=radical&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
